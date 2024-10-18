@@ -1,1 +1,2 @@
 This is my first File !
+We are Learning Git using VScode Terminal
