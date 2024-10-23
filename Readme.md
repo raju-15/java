@@ -1,1 +1,1 @@
-"# java" 
+"This is git course" 
